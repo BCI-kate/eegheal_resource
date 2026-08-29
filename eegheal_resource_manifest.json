@@ -1,5 +1,217 @@
 {
   "version": 1,
-  "images": [],
-  "audio": []
+  "images": [
+    {
+      "resource_id": "correct_green_bingo",
+      "name": "correct_green_bingo.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/correct_green_bingo.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/correct_green_bingo.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "correct_greenbox_bingo",
+      "name": "correct_greenbox_bingo.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/correct_greenbox_bingo.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/correct_greenbox_bingo.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "correct_observe",
+      "name": "correct_observe.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/correct_observe.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/correct_observe.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "correct_yellow_smile",
+      "name": "correct_yellow_smile.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/correct_yellow_smile.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/correct_yellow_smile.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "correct_yellow_thumb",
+      "name": "correct_yellow_thumb.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/correct_yellow_thumb.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/correct_yellow_thumb.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "uncertain_red_qmark",
+      "name": "uncertain_red_qmark.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/uncertain_red_qmark.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/uncertain_red_qmark.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "uncertain_shrug",
+      "name": "uncertain_shrug.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/uncertain_shrug.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/uncertain_shrug.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "uncertain_yellow_doubt",
+      "name": "uncertain_yellow_doubt.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/uncertain_yellow_doubt.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/uncertain_yellow_doubt.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "uncertain_yellow_neutral",
+      "name": "uncertain_yellow_neutral.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/uncertain_yellow_neutral.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/uncertain_yellow_neutral.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "uncertain_yellow_think",
+      "name": "uncertain_yellow_think.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/uncertain_yellow_think.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/uncertain_yellow_think.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "wrong_red_cross",
+      "name": "wrong_red_cross.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/wrong_red_cross.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/wrong_red_cross.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "wrong_red_forbid",
+      "name": "wrong_red_forbid.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/wrong_red_forbid.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/wrong_red_forbid.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "wrong_yellow_cry",
+      "name": "wrong_yellow_cry.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/wrong_yellow_cry.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/wrong_yellow_cry.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "wrong_yellow_narrow",
+      "name": "wrong_yellow_narrow.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/wrong_yellow_narrow.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/wrong_yellow_narrow.png",
+      "format": "png"
+    },
+    {
+      "resource_id": "wrong_yellow_thumb",
+      "name": "wrong_yellow_thumb.png",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/wrong_yellow_thumb.png",
+      "thumbnail_url": "https://bci-kate.github.io/eegheal_resource/eegheal_images/wrong_yellow_thumb.png",
+      "format": "png"
+    }
+  ],
+  "audio": [
+    {
+      "resource_id": "correct_achievement",
+      "name": "correct_achievement.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/correct_achievement.ogg",
+      "duration_ms": 290,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "correct_check",
+      "name": "correct_check.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/correct_check.ogg",
+      "duration_ms": 539,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "correct_complete",
+      "name": "correct_complete.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/correct_complete.ogg",
+      "duration_ms": 2005,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "correct_reward",
+      "name": "correct_reward.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/correct_reward.ogg",
+      "duration_ms": 999,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "correct_success",
+      "name": "correct_success.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/correct_success.ogg",
+      "duration_ms": 490,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "uncertain_info",
+      "name": "uncertain_info.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/uncertain_info.ogg",
+      "duration_ms": 491,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "uncertain_notification",
+      "name": "uncertain_notification.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/uncertain_notification.ogg",
+      "duration_ms": 333,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "uncertain_processing",
+      "name": "uncertain_processing.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/uncertain_processing.ogg",
+      "duration_ms": 332,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "uncertain_retry",
+      "name": "uncertain_retry.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/uncertain_retry.ogg",
+      "duration_ms": 332,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "uncertain_warning",
+      "name": "uncertain_warning.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/uncertain_warning.ogg",
+      "duration_ms": 139,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "wrong_blocked",
+      "name": "wrong_blocked.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/wrong_blocked.ogg",
+      "duration_ms": 103,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "wrong_cancel",
+      "name": "wrong_cancel.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/wrong_cancel.ogg",
+      "duration_ms": 1063,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "wrong_error",
+      "name": "wrong_error.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/wrong_error.ogg",
+      "duration_ms": 165,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "wrong_invalid_drop",
+      "name": "wrong_invalid_drop.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/wrong_invalid_drop.ogg",
+      "duration_ms": 500,
+      "format": "ogg"
+    },
+    {
+      "resource_id": "wrong_warning",
+      "name": "wrong_warning.ogg",
+      "url": "https://bci-kate.github.io/eegheal_resource/eegheal_audio/wrong_warning.ogg",
+      "duration_ms": 786,
+      "format": "ogg"
+    }
+  ]
 }
