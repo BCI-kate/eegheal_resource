@@ -1,5 +1,7 @@
 # README
 
+[资源库地址](https://github.com/BCI-kate/eegheal_resource.git)
+
 https格式的资源库，包括图片与音频，用以提供正确、错误、模糊3种类型的反馈
 
 ## 更新方式
@@ -9,3 +11,7 @@ https格式的资源库，包括图片与音频，用以提供正确、错误、
 ## 使用方式
 
 EEGHeal项目专用，配置EEGHEAL_RESOURCE_MANIFEST_URL，值为"https://bci-kate.github.io/eegheal_resource/eegheal_resource_manifest.json"
+
+## PyQt5效果展示
+
+![image-20260902002048010](./README.assets/image-20260902002048010.png)
